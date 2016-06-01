@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 It is something different over here
+=======
+>>>>>>> parent of dd45a8f... Ok now I am putting it on the master
